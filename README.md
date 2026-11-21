@@ -5,5 +5,5 @@
 ### `Eduarda Pacheco`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c#>
+  <img src="https://skillicons.dev/icons?i=c#">
 </div>
